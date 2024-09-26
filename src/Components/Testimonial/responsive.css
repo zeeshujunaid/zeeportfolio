@@ -1,0 +1,96 @@
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .card-wrapper{
+        padding: 5px;
+    }
+    .card_box{
+        width: 48%;
+        padding: 5px;
+        margin: 30px 0px;
+    }
+    .card_box p{
+        font-size: 13px;
+    }
+    .card_box h3{
+        font-size: 18px !important;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px){
+    .testimonial{
+        padding: 0;
+    }
+    .card-wrapper{
+        padding: 5px;
+    }
+    .card_box{
+        width: 85%;
+        padding: 10px;
+        margin: 30px auto;
+    }
+    .card_box p{
+        font-size: 16px;
+    }
+    .card_box h3{
+        font-size: 20px !important;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 599px){
+    .testimonial{
+        padding: 0;
+    }
+    .card-wrapper{
+        padding: 5px;
+    }
+    .card_box{
+        width: 85%;
+        padding: 10px;
+        margin: 30px auto;
+    }
+    .card_box p{
+        font-size: 16px;
+    }
+    .card_box h3{
+        font-size: 20px !important;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 399px){
+    .testimonial{
+        padding: 0;
+    }
+    .card-wrapper{
+        padding: 5px;
+    }
+    .card_box{
+        width: 100%;
+        padding: 10px;
+        margin: 30px auto;
+    }
+    .card_box p{
+        font-size: 16px;
+    }
+    .card_box h3{
+        font-size: 20px !important;
+    }   
+}
+
+@media only screen and (min-width: 220px) and (max-width: 319px){
+    .testimonial{
+        padding: 0;
+    }
+    .card-wrapper{
+        padding: 5px;
+    }
+    .card_box{
+        width: 100%;
+        padding: 10px;
+        margin: 30px auto;
+    }
+    .card_box p{
+        font-size: 16px;
+    }
+    .card_box h3{
+        font-size: 20px !important;
+    } 
+}

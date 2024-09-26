@@ -1,0 +1,146 @@
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .experience-wrapper{
+        padding: 10px;
+    }
+    .ExperienceBox{
+        width: 100%;
+    }
+    .heading-wrapper img{
+        height: 30px;
+        width: 30px;
+        object-fit: contain;
+    }
+    .heading-wrapper h3{
+        font-size: 18px;
+    }
+    .ExperienceBox-header p{
+        font-size: 14px;
+    }
+    .ExperienceBox p{
+        font-size: 12px;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px){
+    .experience-wrapper{
+        padding: 10px;
+    }
+    .ExperienceBox{
+        width: 100%;
+        text-align: center;
+    }
+    .ExperienceBox-header{
+        flex-direction: column;
+    }
+    .heading-wrapper{
+        flex-direction: column;
+    }
+
+    .heading-wrapper img{
+        height: 40px;
+        width: 40px;
+        object-fit: contain;
+    }
+    .heading-wrapper h3{
+        font-size: 20px;
+    }
+    .ExperienceBox-header p{
+        font-size: 100px;
+    }
+    .ExperienceBox p{
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 599px){
+    .experience-wrapper{
+        padding: 10px;
+    }
+    .ExperienceBox{
+        width: 100%;
+        text-align: center;
+    }
+    .ExperienceBox-header{
+        flex-direction: column;
+    }
+    .heading-wrapper{
+        flex-direction: column;
+    }
+
+    .heading-wrapper img{
+        height: 40px;
+        width: 40px;
+        object-fit: contain;
+    }
+    .heading-wrapper h3{
+        font-size: 20px;
+    }
+    .ExperienceBox-header p{
+        font-size: 16px;
+    }
+    .ExperienceBox p{
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 399px){
+    .experience-wrapper{
+        padding: 10px;
+    }
+    .ExperienceBox{
+        width: 100%;
+        text-align: center;
+    }
+    .ExperienceBox-header{
+        flex-direction: column;
+    }
+    .heading-wrapper{
+        flex-direction: column;
+    }
+
+    .heading-wrapper img{
+        height: 40px;
+        width: 40px;
+        object-fit: contain;
+    }
+    .heading-wrapper h3{
+        font-size: 20px;
+    }
+    .ExperienceBox-header p{
+        font-size: 16px;
+    }
+    .ExperienceBox p{
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 220px) and (max-width: 319px){
+    .experience-wrapper{
+        padding: 0px;
+    }
+    .ExperienceBox{
+        width: 100%;
+        text-align: center;
+    }
+    .ExperienceBox-header{
+        flex-direction: column;
+    }
+    .heading-wrapper{
+        flex-direction: column;
+    }
+
+    .heading-wrapper img{
+        height: 40px;
+        width: 40px;
+        object-fit: contain;
+    }
+    .heading-wrapper h3{
+        font-size: 20px;
+    }
+    .ExperienceBox-header p{
+        font-size: 16px;
+    }
+    .ExperienceBox p{
+        font-size: 16px;
+    }
+}

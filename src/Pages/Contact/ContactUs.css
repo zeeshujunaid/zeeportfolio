@@ -1,0 +1,86 @@
+.contactUs{
+    width: 100%;
+    padding: 50px 0;
+}
+.contactUs_wrapper{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100% !important;
+}
+.form-wrapper{
+    width: 45%;
+    padding: 10px;
+}
+.form-wrapper form{
+    display: flex;
+    flex-direction: column;
+}
+form input{
+    height: 60px;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 2px solid #000;
+    outline: none;
+    border-radius: 8px;
+    font-size: 16px;
+    background: transparent;
+}
+form textarea{
+    min-height: 100px;
+    max-height: 200px;
+    width: 100%;
+    border: 2px solid #000;
+    border-radius: 8px;
+    outline: none;
+    padding: 10px;
+    background: transparent;
+    margin: 10px 0;
+}
+form ul{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 15px;
+    margin: 20px 0 0;
+    padding: 0;
+}
+form ul li a{
+    display: block;
+    border: 2px solid #000;
+    padding: 10px;
+    color: #000;
+    border-radius: 5px;
+    transition: 350ms ease-in-out;
+}
+form ul li a svg{
+    font-size: 25px;
+}
+form ul li a:hover{
+    color: #fff;
+    background-color: #000;
+}
+.content-wrapper{
+    width: 45%;
+    padding: 10px;
+}
+.content-wrapper h3{
+    font-size: 40px;
+    line-height: 50px;
+    margin: 10px 0;
+}
+.content-wrapper h3 span{
+    font-weight: 800;
+}
+.content-wrapper p{
+    font-size: 16px;
+    margin: 10px 0;
+    color: #71717A;
+}
+.content-wrapper h5{
+    font-size: 18px;
+    margin: 15px 0 !important;
+}

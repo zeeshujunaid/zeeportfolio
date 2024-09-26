@@ -1,0 +1,60 @@
+.Banner{
+    width: 100%;
+}
+.banner-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+}
+.text-wrapper{
+    width: 50%;
+    padding: 10px 10px 0;
+}
+.text-wrapper h2{
+    line-height: 3.2rem;
+    font-size: 40px !important;
+}
+.text-wrapper h2 span:first-child{
+    font-weight: 800;
+}
+.text-wrapper h2 span:last-child{
+    font-weight: 800;
+}
+.text-wrapper p{
+    margin-top: 15px;
+    font-size: 14px;
+    color: #71717A;
+}
+.text-wrapper ul{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+    margin: 20px 0 0;
+    padding: 0;
+}
+.text-wrapper ul li a{
+    display: block;
+    border: 2px solid #000;
+    padding: 10px;
+    color: #000;
+    border-radius: 5px;
+    transition: 350ms ease-in-out;
+}
+.text-wrapper ul li a svg{
+    font-size: 25px;
+}
+.text-wrapper ul li a:hover{
+    color: #fff;
+    background-color: #000;
+}
+.img-wrapper{
+    height: 400px;
+    width: 55%;
+}
+.img-wrapper img{
+    height: 90%;
+    width: 100%;
+    object-fit: contain;
+}

@@ -1,0 +1,14 @@
+.heading-wrapper{
+    text-align: center !important;
+    margin-bottom: 20px;
+}
+h2{
+    color: #000 !important;
+    font-size: 40px !important;
+}
+span{
+    font-weight: 800;
+}
+.LightColor{
+    color: #fff !important;
+}

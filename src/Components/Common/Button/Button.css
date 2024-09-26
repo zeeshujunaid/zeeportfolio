@@ -1,0 +1,12 @@
+button{
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    outline: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px !important;
+}

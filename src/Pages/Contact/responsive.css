@@ -1,0 +1,261 @@
+@media only screen and (min-width: 992px) and (max-width: 1250px){
+    form ul{
+        width: 100%;
+    }
+    form ul li a svg{
+        font-size: 20px;
+
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .contactUs_wrapper{
+        justify-content: space-between;
+    }
+    .form-wrapper{
+        width: 50%;
+    }
+    .form-wrapper form{
+        width: 100%;
+    }
+    form input{
+        height: 40px;
+        width: 90%;
+    }
+    form textarea{
+        width: 90%;
+    }
+    form ul li:first-child{
+        width: 90%;
+    }
+    form ul li Button{
+        width: 100%;
+    }
+    .content-wrapper{
+        width: 50%;
+    }
+    .content-wrapper h3{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .content-wrapper h3 span{
+        font-weight: 600;
+    }
+    .content-wrapper p{
+        font-size: 13px;
+    }
+    .content-wrapper h5{
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px){
+    .contactUs{
+        padding: 0px;
+        margin-bottom: 30px;
+    }
+    .contactUs_wrapper{
+        flex-direction: column;
+    }
+    .form-wrapper{
+        width: 90%;
+        order: 1;
+        margin: auto;
+    }
+    .form-wrapper form{
+        width: 100%;
+    }
+    form input{
+        height: 40px;
+        width: 100%;
+    }
+    form textarea{
+        width: 100%;
+    }
+    form ul{
+        justify-content: center;
+    }
+    form ul li:first-child{
+        width: 100%;
+    }
+    form ul li Button{
+        width: 100%;
+    }
+    .content-wrapper{
+        width: 90%;
+        margin: auto;
+        text-align: center;
+    }
+    .content-wrapper h3{
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .content-wrapper h3 span{
+        font-weight: 800;
+    }
+    .content-wrapper p{
+        font-size: 16px;
+    }
+    .content-wrapper h5{
+        font-size: 18px;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 599px){
+    .contactUs{
+        padding: 0px;
+        margin-bottom: 30px;
+    }
+    .contactUs_wrapper{
+        flex-direction: column;
+    }
+    .form-wrapper{
+        width: 100%;
+        order: 1;
+        margin: auto;
+    }
+    .form-wrapper form{
+        width: 100%;
+    }
+    form input{
+        height: 40px;
+        width: 100%;
+    }
+    form textarea{
+        width: 100%;
+    }
+    form ul{
+        justify-content: center;
+        align-items: center;
+    }
+    form ul li:first-child{
+        width: 100%;
+    }
+    form ul li Button{
+        width: 100%;
+    }
+    .content-wrapper{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .content-wrapper h3{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .content-wrapper h3 span{
+        font-weight: 800;
+    }
+    .content-wrapper p{
+        font-size: 14px;
+    }
+    .content-wrapper h5{
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 399px){
+    .contactUs{
+        padding: 0px;
+        margin-bottom: 30px;
+    }
+    .contactUs_wrapper{
+        flex-direction: column;
+    }
+    .form-wrapper{
+        width: 100%;
+        order: 1;
+        margin: auto;
+    }
+    .form-wrapper form{
+        width: 100%;
+    }
+    form input{
+        height: 40px;
+        width: 100%;
+    }
+    form textarea{
+        width: 100%;
+    }
+    form ul{
+        justify-content: center;
+        align-items: center;
+    }
+    form ul li:first-child{
+        width: 100%;
+    }
+    form ul li Button{
+        width: 100%;
+    }
+    .content-wrapper{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .content-wrapper h3{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .content-wrapper h3 span{
+        font-weight: 800;
+    }
+    .content-wrapper p{
+        font-size: 12px;
+    }
+    .content-wrapper h5{
+        font-size: 12px;
+    }   
+}
+
+@media only screen and (min-width: 220px) and (max-width: 319px){
+    .contactUs{
+        padding: 0px;
+        margin-bottom: 30px;
+    }
+    .contactUs_wrapper{
+        flex-direction: column;
+    }
+    .form-wrapper{
+        width: 100%;
+        order: 1;
+        margin: auto;
+    }
+    .form-wrapper form{
+        width: 100%;
+    }
+    form input{
+        height: 40px;
+        width: 100%;
+    }
+    form textarea{
+        width: 100%;
+    }
+    form ul{
+        justify-content: center;
+        align-items: center;
+    }
+    form ul li:first-child{
+        width: 100%;
+    }
+    form ul li Button{
+        width: 100%;
+    }
+    .content-wrapper{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .content-wrapper h3{
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .content-wrapper h3 span{
+        font-weight: 800;
+    }
+    .content-wrapper p{
+        font-size: 12px;
+    }
+    .content-wrapper h5{
+        font-size: 12px;
+    }   
+}

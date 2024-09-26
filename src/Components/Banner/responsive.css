@@ -1,0 +1,128 @@
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .text-wrapper{
+        width: 50%;
+    }
+    .text-wrapper h2{
+        font-size: 25px !important;
+        line-height: 2rem;
+    }
+    .img-wrapper{
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px){
+    .banner-wrapper{
+        flex-direction: column;
+    }
+    .text-wrapper{
+        width: 90%;
+        order: 1;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .text-wrapper h2{
+        font-size: 25px !important;
+        line-height: 2rem;
+    }
+    .img-wrapper{
+        width: 90%;
+        order: -1;
+        text-align: center;
+        margin: auto;
+    }
+    .img-wrapper img{
+        height: 100%;
+        width: 100%;
+    }
+    .text-wrapper ul{
+        justify-content: center;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 599px){
+    .banner-wrapper{
+        flex-direction: column;
+    }
+    .text-wrapper{
+        width: 100%;
+        order: 1;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .text-wrapper h2{
+        font-size: 25px !important;
+        line-height: 2rem;
+    }
+    .img-wrapper{
+        width: 100%;
+        order: -1;
+        text-align: center;
+        margin: auto;
+    }
+    .img-wrapper img{
+        height: 100%;
+        width: 100%;
+    }
+    .text-wrapper ul{
+        justify-content: center;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 399px){
+    .banner-wrapper{
+        flex-direction: column;
+    }
+    .text-wrapper{
+        width: 100%;
+        order: 1;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .text-wrapper h2{
+        font-size: 25px !important;
+        line-height: 2rem;
+    }
+    .img-wrapper{
+        width: 100%;
+        order: -1;
+        text-align: center;
+        margin: auto;
+    }
+    .img-wrapper img{
+        height: 100%;
+        width: 100%;
+    }
+    .text-wrapper ul{
+        justify-content: center;
+    }
+}
+
+@media only screen and (min-width: 220px) and (max-width: 319px){
+    .banner-wrapper{
+        flex-direction: column;
+    }
+    .text-wrapper{
+        width: 100%;
+        order: 1;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .text-wrapper h2{
+        font-size: 25px !important;
+        line-height: 2rem;
+    }
+    .img-wrapper{
+        width: 100%;
+        order: -1;
+        text-align: center;
+        margin: auto;
+    }
+    .img-wrapper img{
+        height: 100%;
+        width: 100%;
+    }
+    .text-wrapper ul{
+        justify-content: center;
+    }   
+}

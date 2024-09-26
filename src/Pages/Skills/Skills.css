@@ -1,0 +1,7 @@
+.skills_boxes{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+}

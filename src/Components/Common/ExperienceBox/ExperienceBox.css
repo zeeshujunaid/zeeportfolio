@@ -1,0 +1,41 @@
+.ExperienceBox{
+    width: 90%;
+    border: 1px solid #71717A;
+    margin: 20px auto;
+    border-radius: 8px;
+    padding: 10px;
+    transition: 350ms ease-in-out;
+}
+.ExperienceBox:hover{
+    background-color: #27272A;
+}
+.ExperienceBox-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center !important;
+}
+.heading-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+    margin: 0 !important;
+    color: #D4D4D8;
+}
+.heading-wrapper img{
+    height: 40px;
+    width: 40px;
+    object-fit: contain;
+}
+.heading-wrapper h3{
+    margin: 0;
+    font-size: 22px;
+}
+.ExperienceBox-header p{
+    margin: 0;
+    color: #D4D4D8;
+}
+.ExperienceBox p{
+    margin: 20px 0;
+    color: #D4D4D8;
+}

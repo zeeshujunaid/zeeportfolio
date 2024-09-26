@@ -1,0 +1,27 @@
+.about-banner-wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.about_banner_img{
+    height: 350px;
+    width: 40%;
+}
+.about_banner_img img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.about_text_wrapper{
+    width: 45%;
+}
+.about_text_wrapper h2{
+    margin-bottom: 20px;
+    color: #000;
+}
+.about_text_wrapper span{
+    font-weight: 800;
+}
+.about_text_wrapper p{
+    margin: 10px 0;
+}
