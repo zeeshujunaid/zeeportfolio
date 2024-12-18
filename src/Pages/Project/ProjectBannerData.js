@@ -11,10 +11,10 @@ const ProjectBannerData = [
     {
         imgUrl: "./assets/images/delivery.avif",
         serialNo: "02",
-        heading: "Chat App (React Native)",
-        para: "I am currently developing a chat app using React Native and Firebase, designed to facilitate seamless communication between users. This mobile application will allow users to create accounts, send messages, and engage in real-time conversations with friends. By leveraging Firebase for authentication and data storage, I’m ensuring a smooth and secure user experience. Working on this project is enhancing my skills in mobile development and deepening my understanding of interactive chat functionalities. I’m excited to showcase the progress of this chat app in my portfolio!",
+        heading: "SAYLANI QUIZ APP (React Native)",
+        para: "I am currently developing a quiz app using React Native and Firebase, designed to provide an engaging and interactive platform for students and teachers. This application allows institutes to create and manage quizzes for specific courses, generate real-time 4-digit OTP codes for live quizzes, and monitor student progress through a comprehensive dashboard. Students can join quizzes using access codes, practice questions, and view their results instantly. By leveraging Firebase for authentication and data management, the app ensures secure and efficient operations. This project is enhancing my skills in mobile and dashboard development while deepening my understanding of real-time functionalities. I’m excited to showcase the progress of this quiz app in my portfolio!",
         read: "./assets/images/Read-More.png",
-        readLink: "https://github.com/zeeshujunaid/mobile-chat-app",
+        readLink: "https://github.com/zeeshujunaid/SAYLANIQUIZAPP",
     },
     {
         imgUrl: "./assets/images/chat-web.png",
