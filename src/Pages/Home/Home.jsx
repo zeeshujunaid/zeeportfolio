@@ -9,7 +9,6 @@ import ContactUs from "../Contact/ContactUs"
 import Project from "../Project/Project"
 import Skills from "../Skills/Skills"
 import ContactUsData from "../Contact/ContactUsData"
-import Footer from "../../Components/Footer/Footer"
 
 const Home = () => {
   return (
@@ -22,7 +21,6 @@ const Home = () => {
         <Project/>
         {/* <Testimonial/> */}
         <ContactUs data={ContactUsData}/>
-        <Footer/>
     </div>
   )
 }

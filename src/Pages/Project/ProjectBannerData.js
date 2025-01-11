@@ -9,12 +9,12 @@ const ProjectBannerData = [
         isReverse: true
     },
     {
-        imgUrl: "./assets/images/delivery.avif",
+        imgUrl: "./assets/images/quizapp.jpg",
         serialNo: "02",
         heading: "SAYLANI QUIZ APP (React Native)",
-        para: "I am currently developing a quiz app using React Native and Firebase, designed to provide an engaging and interactive platform for students and teachers. This application allows institutes to create and manage quizzes for specific courses, generate real-time 4-digit OTP codes for live quizzes, and monitor student progress through a comprehensive dashboard. Students can join quizzes using access codes, practice questions, and view their results instantly. By leveraging Firebase for authentication and data management, the app ensures secure and efficient operations. This project is enhancing my skills in mobile and dashboard development while deepening my understanding of real-time functionalities. I’m excited to showcase the progress of this quiz app in my portfolio!",
+        para: "I am currently developing a quiz app using React Native and Firebase, designed to provide an engaging and interactive platform for students and teachers. This application allows institutes to create and manage quizzes for specific courses, generate real-time 4-digit OTP codes for live quizzes, and monitor student progress through a comprehensive dashboard. Students can join quizzes using access codes, practice questions, and view their results instantly. By leveraging Firebase for authentication and data management, the app ensures secure and efficient operations. This project is enhancing my skills in mobile and dashboard development while deepening my understanding of real-time functionalities. I’m excited to showcase the progress of this quiz app in my portfolio! You can download the app apk from the link below.",
         read: "./assets/images/Read-More.png",
-        readLink: "https://github.com/zeeshujunaid/SAYLANIQUIZAPP",
+        readLink: "https://drive.google.com/file/d/1msa7fR1sbsmwZNysUnGGkndQXzFkRJVq/view?usp=drive_link",
     },
     {
         imgUrl: "./assets/images/chat-web.png",
