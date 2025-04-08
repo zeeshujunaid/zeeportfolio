@@ -44,8 +44,8 @@ const SkillData = [
         text: "Firebase"
     },
     {
-        imgURL: "./assets/images/database.png",
-        text: "Firestore Database"
+        imgURL: "./assets/images/images.png",
+        text: "Firestore"
     },
     {
        imgURL: "./assets/images/mongo.svg",

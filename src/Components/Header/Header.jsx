@@ -38,7 +38,7 @@ const Header = () => {
             </div>
 
             <div className="resume_link">
-              <a href="#">
+            <a href="/Zeeshanresume.pdf" download>
                 <Button text="Resume" isImg />
               </a>
             </div>
