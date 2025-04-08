@@ -38,7 +38,7 @@ const ProjectBannerData = [
         heading: "Nextjs Landing Page",
         para: "For my third project, I created a landing page using Next.js, a powerful React framework. This project showcases my skills in building responsive and dynamic web applications. The landing page features a clean design, smooth animations, and optimized performance, making it an excellent example of modern web development practices. I utilized Next.js's server-side rendering capabilities to enhance loading times and improve SEO. This project not only strengthened my understanding of Next.js but also allowed me to explore advanced features like API routes and static site generation. I’m excited to include this landing page in my portfolio!",
         read: "./assets/images/Read-More.png",
-        readLink: "https://sporthubs.netlify.app/",
+        readLink: "https://aarij-landing-page.vercel.app/",
         isReverse: true
     },
     {
