@@ -17,12 +17,12 @@ const ProjectBannerData = [
         readLink: "https://drive.google.com/file/d/1msa7fR1sbsmwZNysUnGGkndQXzFkRJVq/view?usp=drive_link",
     },
     {
-        imgUrl: "./assets/images/chat-web.png",
+        imgUrl: "./assets/images/E-commerce.jpg",
         serialNo: "02",
-        heading: "Real-Time Chat Website",
-        para: "I developed a real-time chat website using React and Firebase. This project allows users to create accounts, join chat rooms, and communicate with others in real time. I implemented features like user authentication, message storage, and notifications. The use of Firebase for the backend ensures secure data handling and instant updates. This project not only enhanced my skills in web development but also provided valuable experience in building real-time applications. I’m excited to showcase the Real-Time Chat Website as part of my portfolio!",
+        heading: "The Daily Fit (E-commerce Website)",
+        para: "I developed an e-commerce website called The Daily Fit using Next.js and Firebase. This project showcases my skills in building responsive and user-friendly web applications. The website features a clean design, easy navigation, and a secure payment system. I implemented features like product listings, shopping cart functionality, and user authentication. This project allowed me to apply my knowledge of web development principles and improve my coding skills. I’m excited to showcase The Daily Fit as part of my portfolio!",
         read: "./assets/images/Read-More.png",
-        readLink: "https://react-chat-hu9n8z5ru-zees-projects-88b18613.vercel.app/",
+        readLink: "https://the-dailyfit.vercel.app",
         isReverse: true
     },{
         imgUrl: "./assets/images/bloodbankapp.jpg",
@@ -42,20 +42,20 @@ const ProjectBannerData = [
         isReverse: true
     },
     {
-        imgUrl: "./assets/images/barber.png",
+        imgUrl: "./assets/images/chat-web.png",
         serialNo: "05",
+        heading: "Chat Web App",
+        para: "I developed a chat web app using React.js and Firebase, designed to facilitate real-time communication between users. The app features user authentication, allowing users to create accounts and log in securely. Once logged in, users can send and receive messages instantly, creating a seamless chat experience. I focused on implementing a clean and intuitive user interface, ensuring that users can easily navigate through conversations. This project allowed me to enhance my skills in web development and real-time database management. I’m excited to showcase the Chat Web App as part of my portfolio!",
+        read: "./assets/images/Read-More.png",
+        readLink: "https://chat-web-app-1a0f3.web.app/",
+    },
+    {
+        imgUrl: "./assets/images/barber.png",
+        serialNo: "06",
         heading: "Barber Website",
         para: "I developed a barber website using React js, and Firebase This project showcases my skills in front-end development and responsive design. The website features a clean layout, easy navigation, and interactive elements that enhance user experience. I focused on creating a visually appealing design that reflects the barbering industry while ensuring functionality across different devices. This project allowed me to apply my knowledge of web development principles and improve my coding skills. I’m excited to showcase the Barber Website as part of my portfolio!",
         read: "./assets/images/Read-More.png",
         readLink: "https://barberbook.netlify.app",
-    },
-    {
-        imgUrl: "./assets/images/chatbotweb.png",
-        serialNo: "06",
-        heading: "Chatbot Web",
-        para: "I developed a chatbot web application using React and Firebase. This project showcases my skills in building interactive web applications with real-time capabilities. The chatbot is designed to assist users by answering common queries and providing information. I implemented features like user authentication, message storage, and a responsive design to enhance user experience. This project allowed me to explore the integration of AI and web development, and I’m excited to include the Chatbot Web in my portfolio!",
-        read: "./assets/images/Read-More.png",
-        readLink: "https://zjchatapp.netlify.app/",
         isReverse: true
     },
 ]
