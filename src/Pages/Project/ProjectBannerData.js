@@ -1,13 +1,13 @@
 const ProjectBannerData = [
-    // {
-    //     imgUrl: "./assets/images/delivery.avif",
-    //     serialNo: "01",
-    //     heading: "Real-Time Food Delivery App (Open Source Project)",
-    //     para: "I am currently participating in an open-source project focused on developing a real-time food delivery app. This collaborative effort involves working with a diverse team of developers to create an intuitive platform where users can browse restaurants, place orders, and track deliveries in real time. My role in the project includes contributing to both the front-end and back-end components, enhancing my skills in full-stack development. This experience not only allows me to collaborate with others in the tech community but also deepens my understanding of real-time applications and agile development practices. I’m excited to be part of this impactful project!",
-    //     read: "./assets/images/Read-More.png",
-    //     readLink: "https://github.com/AhmedrAshraf/Delivery-App-SMIT",
-    //     isReverse: true
-    // },
+    {
+        imgUrl: "./assets/images/YUMMAPICON.png",
+        serialNo: "Coming Soon",
+        heading: "YumMAap – Discover Top-Rated Restaurants Near You",
+        para: "YumMAap is a React Native cli app that helps users find top nearby restaurants through a live map. Users can view profiles, ratings, and reviews. Restaurants get a unique QR code after signup, allowing customers to scan and leave reviews. They can also promote new offers and deals directly in the app.",
+        read: "./assets/images/Read-More.png",
+        readLink: "https://github.com/zeeshujunaid/YumMap-App-Cli",
+        isReverse: true
+    },
     {
         imgUrl: "./assets/images/quizapp.jpg",
         serialNo: "01",
