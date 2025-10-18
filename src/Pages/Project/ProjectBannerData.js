@@ -9,15 +9,15 @@ const ProjectBannerData = [
         isReverse: true
     },
     {
-        imgUrl: "./assets/images/quizapp.jpg",
+        imgUrl: "./assets/images/saylaniquizapp.png",
         serialNo: "01",
         heading: "SAYLANI QUIZ APP (React Native)",
         para: "I developed a quiz app using React Native, designed to enhance learning through interactive quizzes. The app features a user-friendly interface where users can select categories and answer multiple-choice questions. I implemented a scoring system to track user performance and provide instant feedback. This project allowed me to explore mobile app development and improve my skills in React Native. I’m excited to showcase the Saylani Quiz App as part of my portfolio!",
         read: "./assets/images/Read-More.png",
-        readLink: "https://drive.google.com/file/d/1msa7fR1sbsmwZNysUnGGkndQXzFkRJVq/view?usp=drive_link",
+        readLink: "https://saylani-quiz-landing.vercel.app/",
     },
     {
-        imgUrl: "./assets/images/E-commerce.jpg",
+        imgUrl: "./assets/images/the daily.png",
         serialNo: "02",
         heading: "The Daily Fit (E-commerce Website)",
         para: "I developed an e-commerce website called The Daily Fit using Next.js and Firebase. This project showcases my skills in building responsive and user-friendly web applications. The website features a clean design, easy navigation, and a secure payment system. I implemented features like product listings, shopping cart functionality, and user authentication. This project allowed me to apply my knowledge of web development principles and improve my coding skills. I’m excited to showcase The Daily Fit as part of my portfolio!",
@@ -33,7 +33,7 @@ const ProjectBannerData = [
         readLink: "https://github.com/zeeshujunaid/smitbloodbankapp",
     },
     {
-        imgUrl: "./assets/images/landingpage.jpg",
+        imgUrl: "./assets/images/layers.png",
         serialNo: "04",
         heading: "Nextjs Landing Page",
         para: "For my third project, I created a landing page using Next.js, a powerful React framework. This project showcases my skills in building responsive and dynamic web applications. The landing page features a clean design, smooth animations, and optimized performance, making it an excellent example of modern web development practices. I utilized Next.js's server-side rendering capabilities to enhance loading times and improve SEO. This project not only strengthened my understanding of Next.js but also allowed me to explore advanced features like API routes and static site generation. I’m excited to include this landing page in my portfolio!",
